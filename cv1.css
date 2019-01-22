@@ -1,0 +1,84 @@
+h1 {
+	
+	font-family: 'megrim', cursive;
+	font-size: 3.5em;
+	color:#777861;
+	border-style:solid;
+	border-color: #777861;
+    border-width: 6px;
+	      width: 25%;
+	text-align: center;
+	position: relative;
+	     right: -600px;
+	     top: 50px;
+	
+}
+
+img {
+	position: relative;
+	top: -330px;
+	right: -1250px;
+	width: 15%;
+	
+	
+}
+ul {
+	font-family: 'megrim', cursive;
+	color:red;
+	text-align: left;
+	position: relative;
+	top: -140px;
+}
+
+h2 {
+	font-family: 'megrim', cursive;
+	font-size: 2.2em;
+	color:#777861;
+	border-style:solid;
+	border-color: #777861;
+    border-width: 4px;
+	      width: 40%;
+	text-align: left;
+	position: relative;
+	top: -250px;
+
+}
+
+
+.la , .ulla , .laf, .ullan {
+	font-family: 'megrim', cursive;
+	color: #777861;
+	font-size: 1.5em;
+	position: relative;
+	top: -800px;
+	right: -500px
+}
+.ol1 {
+	font-family: 'megrim', cursive;
+	color: #777861;
+	position: relative;
+	right: -200px;
+	top: -250px;
+}
+
+.info {
+	color: #777861;
+	font-size: 1.5em;
+}
+body {
+	background-image: url("http://elishean-portesdutemps.com/wp-content/uploads/2014/06/fond-ecran-blanc.jpg");
+}
+.l {
+	position: relative;
+	top: -500px;
+	right: -1000px;
+}
+.lt{
+	position: relative;
+	top: -200px;
+	right: -1000px;
+    }
+.ol , .h3 {
+	font-family: 'megrim', cursive;
+	color: #777861;
+}
